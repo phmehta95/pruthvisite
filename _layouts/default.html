@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <script type="text/x-mathjax-config">
+	   MathJax.Hub.Config({
+	      messageStyle: "none"
+	   });
+	 </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <div>
+            <h2 class="nav-title">{{ site.title }}</h2>
+          </div>
+        </a>
+        <ul>
+          <li><a href="{{ '/about' | prepend: site.url }}">About</a></li>
+          <li><a href="{{ '/cv' | prepend: site.url }}">CV</a></li>
+          <li><a href="https://twitter.com/alamogordoglass">Twitter</a></li>
+          <li><a href="https://github.com/atomsite">Github</a></li>
+        </ul>
+    </div>
+  </nav>
+  <div class="subtitle">
+    <p>{{ site.subtitle }}</p>
+  </div>
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <span>
+         {{ site.author.name }}, <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time>. Made with Jekyll using an <b>extremely</b> mangled version of the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
+    </footer>
+  </body>
+</html>

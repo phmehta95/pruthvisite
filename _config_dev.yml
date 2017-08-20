@@ -1,0 +1,32 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Pruthvi
+subtitle:       This is all editable in the config.yml file in the root folder! I'm love you very much!
+paginate:       10
+baseurl:        ""
+url:            "https://phmehta95.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+name:         Pruthvi Mehta
+url:
+email:
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/chesterhow/tale
+
+# Gems
+gems:
+  - jekyll-paginate
