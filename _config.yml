@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Pruthvi
 subtitle:       
 paginate:       10
-baseurl:        "/pruthvisite"
+baseurl:        "pruthvisite"
 url:            "https://phmehta95.github.io"
 
 # Assets
