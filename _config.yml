@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Pruthvi
-subtitle:       This is all editable in the config.yml file in the root folder! I'm love you very much!
+subtitle:       
 paginate:       10
 baseurl:        "/pruthvisite"
 url:            "https://phmehta95.github.io"
