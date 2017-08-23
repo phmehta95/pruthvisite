@@ -5,11 +5,6 @@ author: "Pruthvi"
 permalink: /cv/
 ---
 
-PERSONAL DETAILS 	
-
-Birth                    September  25, 1995
-Address               87 Chestnut Drive, Pinner,  HA5 1LX
-Mail                    p h mehta@outlook.com
 
 
 EDUCATION 	
