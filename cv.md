@@ -2,7 +2,7 @@
 layout: post
 title: "CV"
 author: "Pruthvi"
-permalink: /pruthvisite/cv/
+permalink: /cv/
 ---
 
 PERSONAL DETAILS 	
