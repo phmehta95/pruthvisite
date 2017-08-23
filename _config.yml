@@ -1,5 +1,5 @@
 # Permalinks
-permalink:      /:2017-:08-:23/:title
+permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          Pruthvi Mehta
@@ -18,9 +18,9 @@ markdown:       kramdown
 
 # About
 author:		Pruthvi Mehta
-name:         Pruthvi Mehta
-url:
-email:
+name:         	Pruthvi Mehta
+url:		https://phmehta95.github.io
+email:		p_h_mehta@outlook.com
 
 # Custom vars
 version:        3.4.1
