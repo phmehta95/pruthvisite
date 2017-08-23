@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Pruthvi
-subtitle:       
+title:          Pruthvi Mehta
+subtitle:       isn't that good at particle physics, but really likes it
 paginate:       10
 baseurl:        "/pruthvisite"
 url:            "https://phmehta95.github.io"
@@ -17,7 +17,7 @@ sass:
 markdown:       kramdown
 
 # About
-author:
+author:		Pruthvi Mehta
 name:         Pruthvi Mehta
 url:
 email:

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello There"
+title: "First Post"
 author: "Pruthvi"
 ---
 
-Hi there, this is the start of my website
+Hi there, this is the start of my website!
