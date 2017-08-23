@@ -2,6 +2,6 @@
 layout: post
 title: "About"
 author: "Pruthvi"
-permalink: /about/
+permalink: /pruthvisite/about/
 
 ---
